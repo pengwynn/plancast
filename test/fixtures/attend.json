@@ -1,0 +1,44 @@
+{
+    "attendance_id": "23rk",
+    "text": "#plan Android Developer Day (CoHabitat) Sat, Apr 10, 2010 http:\/\/plancast.com\/a\/23rk",
+    "user": {
+        "id": 9573,
+        "name": "Wynn Netherland",
+        "screen_name": "pengwynn",
+        "profile_image_url": "http:\/\/a1.twimg.com\/profile_images\/485575482\/komikazee_normal.png"
+    },
+    "created_at": "Sun Mar 21 18:43:53 +0000 2010",
+    "created_since": "0 minutes",
+    "plan_id": "u6i",
+    "what": "Android Developer Day",
+    "when": "Saturday, April 10, 2010",
+    "where": "CoHabitat",
+    "start": "1270857600",
+    "stop": "1270944000",
+    "attendee_count": 4,
+    "attendees": [{
+        "id": 16258,
+        "name": "Marshall Culpepper",
+        "screen_name": "marshall_law",
+        "profile_image_url": "http:\/\/a1.twimg.com\/profile_images\/441740644\/profile_normal.jpg"
+    },
+    {
+        "id": 19541,
+        "name": "Don Thorp",
+        "screen_name": "donthorp",
+        "profile_image_url": "http:\/\/a3.twimg.com\/profile_images\/742915177\/Don-Profile-2010-300x300_normal.jpg"
+    },
+    {
+        "id": 20759,
+        "name": "Matt Priour",
+        "screen_name": null,
+        "profile_image_url": "http:\/\/a1.twimg.com\/profile_images\/466664920\/july4_2009_normal.jpg"
+    },
+    {
+        "id": 9406,
+        "name": "launch DFW",
+        "screen_name": "launchDFW",
+        "profile_image_url": "http:\/\/plancast.com\/uploads\/pics\/9406_pic_square_1267254229.png"
+    }],
+    "is_attending": 1
+}

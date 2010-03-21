@@ -1,0 +1,25 @@
+{
+    "has_next_page": 0,
+    "next_page_offset": 0,
+    "plans": [{
+        "attendance_id": "23qy",
+        "text": "#plan Create a Plancast wrapper when the API drops () Tue, Mar 23, 2010 http:\/\/plancast.com\/a\/23qy",
+        "user": {
+            "id": 9573,
+            "name": "Wynn Netherland",
+            "screen_name": "pengwynn",
+            "profile_image_url": "http:\/\/a1.twimg.com\/profile_images\/485575482\/komikazee_normal.png"
+        },
+        "created_at": "Sun Mar 21 16:55:30 +0000 2010",
+        "created_since": "0 minutes",
+        "plan_id": "utd",
+        "what": "Create a Plancast wrapper when the API drops",
+        "when": "Tuesday, March 23, 2010",
+        "where": "",
+        "start": "1269302400",
+        "stop": "1269388800",
+        "attendee_count": 0,
+        "is_attending": 1,
+        "group": "Tuesday"
+    }]
+}
