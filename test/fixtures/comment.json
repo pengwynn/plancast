@@ -1,11 +1,1 @@
-{
-    "text": "This is a comment",
-    "created_at": "Sun Mar 21 18:41:59 +0000 2010",
-    "created_since": "0 minutes",
-    "user": {
-        "id": 9573,
-        "name": "Wynn Netherland",
-        "screen_name": "pengwynn",
-        "profile_image_url": "http:\/\/a1.twimg.com\/profile_images\/485575482\/komikazee_normal.png"
-    }
-}
+{"id":7513,"content":"hello world","user":{"id":1,"name":"Mark Hendrickson","username":"mark","pic_square":"http:\/\/plancast.com\/uploads\/pics\/1_pic_square_1271972091.jpg"},"created_at":"Fri May 14 06:47:32 +0000 2010","created_since":"0 minutes"}
