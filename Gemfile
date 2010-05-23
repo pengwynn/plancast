@@ -2,7 +2,7 @@
 source :gemcutter
 gem "hashie", ">= 0.1.3"
 gem "monster_mash", ">= 0.1.0"
-gem "yajl", "~> 0.7.6"
+gem "yajl-ruby", "~> 0.7.6"
 
 group :development do
   gem "shoulda", ">= 2.10.1"
