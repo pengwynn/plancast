@@ -14,7 +14,7 @@ task :build do
 end
  
 task :release => :build do
-  system "gem push bundler-#{Plancast::VERSION}"
+  system "gem push plancast-#{Plancast::VERSION}.gem"
 end
 
 task :default => :test
