@@ -9,10 +9,12 @@ Rake::TestTask.new(:test) do |test|
   test.pattern = "test/**/*_test.rb"
 end
  
+desc "Build the gem"
 task :build do
   system "gem build plancast.gemspec"
 end
  
+desc "Build and release the gem"
 task :release => :build do
   system "gem push plancast-#{Plancast::VERSION}.gem"
 end
