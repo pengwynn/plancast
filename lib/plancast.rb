@@ -7,7 +7,7 @@ Hash.send :include, Hashie::HashExtensions
 
 module Plancast
   
-  VERSION = "0.1.1".freeze
+  VERSION = "0.1.2".freeze
   
   def self.configure
     yield self
@@ -18,10 +18,6 @@ module Plancast
     "http://api.plancast.com/#{version}#{endpoint}.json"
   end
 
-  # class << self
-  #   attr_accessor :api_key
-  #   attr_accessor :api_version
-  # end
   
   def self.api_version
     @api_version || "02"

@@ -1,0 +1,7 @@
+--readme          README.markdown
+--markup          markdown
+--markup-provider rdiscount
+--default-return  nil
+-p ../yardoc_templates
+-o ../../sites/wynn/public/projects/plancast/api
+--no-private

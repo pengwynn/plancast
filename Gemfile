@@ -1,7 +1,7 @@
 # Generated from /Users/wynn/Projects/plancast/plancast.gemspec
 source :gemcutter
 gem "hashie", ">= 0.1.3"
-gem "httparty", ">= 0.1.0"
+gem "httparty", ">= 0.5.2"
 
 group :development do
   gem "shoulda", ">= 2.10.1"
