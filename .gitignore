@@ -19,5 +19,6 @@ tmtags
 coverage
 rdoc
 pkg
+.yardoc
 
 ## PROJECT::SPECIFIC
