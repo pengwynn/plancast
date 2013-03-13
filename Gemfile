@@ -1,5 +1,5 @@
 # Generated from /Users/wynn/Projects/plancast/plancast.gemspec
-source :gemcutter
+source 'https://rubygems.org'
 gem "hashie", ">= 0.1.3"
 gem "httparty", ">= 0.5.2"
 
